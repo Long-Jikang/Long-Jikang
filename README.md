@@ -1,4 +1,9 @@
-### Hi there 👋
+### 你好呀 👋 
+
+我是 **钟舒艺🐾**  Java 后端程序员，对前端也挺感兴趣，爱折腾
+
+- 📧 zhongshuyi5214@foxmail.com
+- 🐧 1820965203
 
 <!--
 **zhongshuyi/zhongshuyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
