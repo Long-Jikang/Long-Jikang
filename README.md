@@ -6,7 +6,7 @@
 <h3><img src="./src/assert/img/hellokittydance.gif" width="30"> 🚀 钟舒艺 | 🌈 Full Stack Developer | 📌 China <img src="./src/assert/img/hellokittydance.gif" width="30"></h3>
 </div>
 
-<p align="center" style="display: flex;justify-content: center;align-items: center;font-size:1.25rem;">You are my &nbsp;<img src="https://profile-counter.glitch.me/a/count.svg"/> </h1>visitor , Thank You!</p>
+<p align="center" style="display: flex;justify-content: center;align-items: center;font-size:1.25rem;">You are my &nbsp;<img src="https://profile-counter.glitch.me/zhongshuyi/count.svg"/> </h1>visitor , Thank You!</p>
 
 
 
