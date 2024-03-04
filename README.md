@@ -15,7 +15,7 @@
 - 🔥 Full-stack developer passionate about web technologies.
 - ⚡️ Enthusiastic about open-source projects and community collaboration.
 - ✨ I am a **Java developer** in Shenzhen.
-- 💻 This is my personal website: <https://xn–5nx.top>
+- 💻 This is my personal website: <https://xn--5nx.top>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
