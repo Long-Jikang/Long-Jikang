@@ -1,9 +1,9 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://灵.top">zhongshuyi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://灵.top">Longjikang</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 <div align="center">
-<h3><img src="./src/assert/img/hellokittydance.gif" width="30"> 🚀 钟舒艺 | 🌈 Full Stack Developer | 📌 China <img src="./src/assert/img/hellokittydance.gif" width="30"></h3>
+<h3><img src="./src/assert/img/hellokittydance.gif" width="30"> 🚀 龙继康 | 🌈 Full Stack Developer | 📌 China <img src="./src/assert/img/hellokittydance.gif" width="30"></h3>
 </div>
 
 <p align="center" style="display: flex;justify-content: center;align-items: center;font-size:1.25rem;">You are my &nbsp;<img src="https://profile-counter.glitch.me/zhongshuyi/count.svg"/> </h1>visitor , Thank You!</p>
@@ -21,8 +21,8 @@
 
 ## Contact me
 
-[![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:zhongshuyi5214@gmail.com)
-[![QQ Mail](https://img.shields.io/badge/FoxMail-003366?style=flat&logo=mail.ru&logoColor=white)](mailto:zhongshuyi5214@foxmail.com)
+
+[![QQ Mail](https://img.shields.io/badge/FoxMail-003366?style=flat&logo=mail.ru&logoColor=white)](mailto:2015692308@qq.com)
 
 ## Tech Stack
 
