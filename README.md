@@ -1,5 +1,7 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://灵.top">Longjikang</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20 Long-Jikang !&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 </div>
 
 <div align="center">
