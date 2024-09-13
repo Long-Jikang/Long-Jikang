@@ -6,7 +6,7 @@
 <h3><img src="./src/assert/img/hellokittydance.gif" width="30"> 🚀 龙继康 | 🌈 Full Stack Developer | 📌 China <img src="./src/assert/img/hellokittydance.gif" width="30"></h3>
 </div>
 
-<p align="center" style="display: flex;justify-content: center;align-items: center;font-size:1.25rem;">You are my &nbsp;<img src="https://profile-counter.glitch.me/zhongshuyi/count.svg"/> </h1>visitor , Thank You!</p>
+<p align="center" style="display: flex;justify-content: center;align-items: center;font-size:1.25rem;">You are my &nbsp;<img src="https://profile-counter.glitch.me/Long-Jikang/count.svg"/> </h1>visitor , Thank You!</p>
 
 
 
@@ -65,31 +65,31 @@
 ## GitHub Activity
 
 <p align="center" style="margin-top:60px;margin-bottom:30px;">
-  <a href="https://github.com/zhongshuyi">
-    <img src="https://badges.strrl.dev/visits/zhongshuyi/zhongshuyi?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Long-Jikang">
+    <img src="https://badges.strrl.dev/visits/Long-Jikang/Long-Jikang?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/zhongshuyi">
-    <img src="https://badges.strrl.dev/years/zhongshuyi?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Long-Jikang">
+    <img src="https://badges.strrl.dev/years/Long-Jikang?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/zhongshuyi?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/zhongshuyi?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Long-Jikang?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/Long-Jikang?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/zhongshuyi">
-    <img src="https://badges.strrl.dev/gists/zhongshuyi?style=flat-square&color=black&logo=github">
+  <a href="https://gist.github.com/Long-Jikang">
+    <img src="https://badges.strrl.dev/gists/Long-Jikang?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/zhongshuyi">
-    <img src="https://badges.strrl.dev/commits/monthly/zhongshuyi?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Long-Jikang">
+    <img src="https://badges.strrl.dev/commits/monthly/Long-Jikang?style=flat-square&color=black&logo=github">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zhongshuyi" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhongshuyi&theme=calm&langs_count=6&layout=compact" alt="zhongshuyi's Stats" height=165>
-    <img src="https://github-readme-stats.vercel.app/api?username=zhongshuyi&theme=calm&show_icons=true" alt="zhongshuyi's Stats" height=165>
+  <a href="https://github.com/Long-Jikang" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Long-Jikang&theme=calm&langs_count=6&layout=compact" alt="Long-Jikang's Stats" height=165>
+    <img src="https://github-readme-stats.vercel.app/api?username=Long-Jikang&theme=calm&show_icons=true" alt="Long-Jikang's Stats" height=165>
   </a>
 </p>
 
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhongshuyi&theme=dracula" width="700" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Long-Jikang&theme=dracula" width="700" />
 </p>
