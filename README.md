@@ -7,8 +7,6 @@
 <h3><img src="./src/assert/img/hellokittydance.gif" width="30"> 🚀 龙继康 | 🌈 Full Stack Developer | 📌 China <img src="./src/assert/img/hellokittydance.gif" width="30"></h3>
 </div>
 
-<p align="center" style="display: flex;justify-content: center;align-items: center;font-size:1.25rem;">You are my &nbsp;<img src="https://profile-counter.glitch.me/Long-Jikang/count.svg"/> </h1>visitor , Thank You!</p>
-
 
 
 ## About Me
@@ -16,9 +14,6 @@
 - 🔥 Full-stack developer passionate about web technologies.
 - ⚡️ Enthusiastic about open-source projects and community collaboration.
 - ✨ I am a **Java developer** in Shenzhen.
-- 💻 This is my personal website: <https://xn--5nx.top>
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email me if you have any questions.
 
 ## Contact me
 
